@@ -23,4 +23,6 @@ These are some of the major technologies that I use or have worked on in the pas
 ## Let's Connect :handshake:
 
 <a href="https://www.linkedin.com/in/abdullah-enes-c-0b6467121/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
+
+![snake gif](https://github.com/aec2/aec2/blob/output/github-contribution-grid-snake.gif)
 -----
