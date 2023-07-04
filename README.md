@@ -1,28 +1,25 @@
+# Hi there, I'm Abdullah Enes Can <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<h1>Hi There, I am <a  href="https://techytushar.github.io/">Abdullah Enes Can</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+I'm a Software Development Engineer with a degree in Computer Engineering from Abdullah Gul University (Class of 2020). My day-to-day work revolves around learning and utilizing the latest tech stacks. In my free time, I enjoy reading books about the reasoning of our existence.
 
-I'm a **Softwear Development Engineer**, graduated in **2020** from **Abdullah Gul University** in **Computer Engineering** stream. My day to day work revolves around learning tech stack that I use in my daily life. In my free time I like to read books about the reasoning of our existence.
-
-## Skill Set :muscle:
+## Skill Set 💪
 
 These are some of the major technologies that I use or have worked on in the past:
 
 **Programming Languages**
+<p align="left">
+  <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+  <img alt="JavaScript" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
+  <img title="C#" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png">
+  <img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"/>
+</p>
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C#" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png">|<img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"/>
+## Some of My Stats 📊
 
-|--|--|--|--|--|
-<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aec2&show_icons=true&theme=radical&include_all_commits=true)
 
-## Some of my stats :bar_chart:
+## Let's Connect! 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=aec2&show_icons=true&theme=radical&include_all_commits=true">
+You can find me on [LinkedIn](https://www.linkedin.com/in/abdullah-enes-c-0b6467121/).
 
-<br>
-
-## Let's Connect :handshake:
-
-<a href="https://www.linkedin.com/in/abdullah-enes-c-0b6467121/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
-
-![snake gif](https://github.com/aec2/aec2/blob/output/github-contribution-grid-snake.gif)
------
+![Snake Gif](https://github.com/aec2/aec2/blob/output/github-contribution-grid-snake.gif)
